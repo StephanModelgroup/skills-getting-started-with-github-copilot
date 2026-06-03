@@ -2,6 +2,8 @@
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 
+[![Python CI](https://github.com/StephanModelgroup/skills-getting-started-with-github-copilot/actions/workflows/pytest.yml/badge.svg?branch=main)](https://github.com/StephanModelgroup/skills-getting-started-with-github-copilot/actions/workflows/pytest.yml)
+
 Hey StephanModelgroup!
 
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
